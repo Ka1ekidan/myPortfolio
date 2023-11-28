@@ -19,8 +19,8 @@ Welcome to my portfolio website! This repository contains the code for my person
 
 ## Dependencies
 
-- **Custom CSS:** [./assets/styles/main.css]
-- **JavaScript files:** [./assets/js/main.js]
+- **Custom CSS:** [./assets/css/main.css] (./assets/css/noscript.css)
+- **JavaScript files:** [./assets/js/main.js] (./assets/js/util.js)
   
 ## Development
 
