@@ -19,9 +19,9 @@ Welcome to my portfolio website! This repository contains the code for my person
 
 ## Dependencies
 
-- **Custom CSS:** [./assets/main.css] (fontawesome-all.min.css main.css) (noscript.css)
+- **Custom CSS:** [./assets/main.css] (fontawesome-all.min.css) (noscript.css)
 - **JavaScript files:** [./assets/main.js] (breakpoints.min.js) (jquery.scrollex.min.js)  (util.js)
-(browser.min.js) (jquery.scrolly.min.js) (jquery.min.js) (main.js)
+(browser.min.js) (jquery.scrolly.min.js) (jquery.min.js)
   
 ## Development
 
