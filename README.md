@@ -2,6 +2,14 @@
 
 Welcome to my portfolio website! This repository contains the code for my personal portfolio, showcasing my skills, projects, and more.
 
+## Table of Contents
+
+- [Features](#features)
+- [How to Explore](#how-to-explore)
+- [Dependencies](#dependencies)
+- [Development](#development)
+- [License](#license)
+
 ## Features
 
 - **Home Page:** An introduction to who I am and what I do.
@@ -19,17 +27,24 @@ Welcome to my portfolio website! This repository contains the code for my person
 
 ## Dependencies
 
-- **Custom CSS:** [./assets/main.css] (fontawesome-all.min.css) (noscript.css)
-- **JavaScript files:** [./assets/main.js] (breakpoints.min.js) (jquery.scrollex.min.js)  (util.js)
-(browser.min.js) (jquery.scrolly.min.js) (jquery.min.js)
-  
+- **Custom CSS:** [main.css](assets/css/main.css)
+- **JavaScript files:**
+  - [jquery.min.js](assets/js/jquery.min.js)
+  - [jquery.scrollex.min.js](assets/js/jquery.scrollex.min.js)
+  - [jquery.scrolly.min.js](assets/js/jquery.scrolly.min.js)
+  - [browser.min.js](assets/js/browser.min.js)
+  - [breakpoints.min.js](assets/js/breakpoints.min.js)
+  - [util.js](assets/js/util.js)
+  - [main.js](assets/js/main.js)
+
 ## Development
 
 To customize or enhance my portfolio website:
 
 1. Edit the HTML in `index.html` to make changes to the structure and layout of the page.
 2. Customize the CSS in `main.css` to modify the visual appearance of the website.
-3. Modify the JavaScript file (`main.js`) to add or update functionality.
+3. Modify the JavaScript files to add or update functionality.
+4. Leverage Bootstrap for styling and interactivity.
 
 ## License
 
