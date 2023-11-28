@@ -1,33 +1,38 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+💻 Task Manager
 
+This is the index.html file for a Task Manager application.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+Features
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Navigation bar with a Home Page link, Tasks link, and a search form.
+Add New Task section with a form to input task details.
+Tasks section to display a list of tasks.
+Each task item includes task name, description, assignee, due date, and status.
+Buttons to mark a task as done, mark it as in progress, or delete the task.
+Footer with a link to go back to the top of the page.
+How to Use
 
-(* = not included)
+Open the index.html file in a web browser.
+Use the navigation bar to go to the desired page or search for tasks.
+Fill out the form in the Add New Task section to add a new task.
+View and manage tasks in the Tasks section.
+Use the buttons on each task item to update the status or delete the task.
+Click the link in the footer to go back to the top of the page.
+Dependencies
 
-AJ
-aj@lkn.io | @ajlkn
+Bootstrap v5.3.0-alpha3: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css
+Custom CSS: ./assets/styles/style.css
+taskManager.js: ./assets/js/taskManager.js
+index.js: ./assets/js/index.js
+Bootstrap JavaScript Bundle v5.3.0-alpha3: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js
+Development
 
+To modify or enhance the Task Manager application:
 
-Credits:
+Edit the HTML in index.html to make changes to the structure and layout of the page.
+Customize the CSS in style.css to modify the visual appearance of the application.
+Modify the JavaScript files (taskManager.js and index.js) to add or update functionality.
+Use the provided Bootstrap CSS and JavaScript for styling and interactivity.
+License©
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This Task Manager application is licensed under the MIT License.
