@@ -19,8 +19,8 @@ Welcome to my portfolio website! This repository contains the code for my person
 
 ## Dependencies
 
-- **Custom CSS:** [./assets/css/noscript.css](./assets/css/ontawesome-all.min.css)
-- **JavaScript files:** [./assets/js/breakpoints.min.js](./assets/js/)(./assets/js/browser.min.js)(./assets/js/jquery.scrollex.min.js)(./assets/js/jquery.scrollex.min.js)(./assets/js/jquery.min.js)(./assets/js/)(./assets/js/util.js) 
+- **Custom CSS:** ./assets/css/noscript.css ontawesome-all.min.css
+- **JavaScript files:** ./assets/js/breakpoints.min.js browser.min.js, scrollex.min.js, jquery.scrollex.min.js, jquery.min.js and util.js) 
 
 ## Development
 
